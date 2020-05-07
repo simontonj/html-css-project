@@ -1,0 +1,65 @@
+#header-1 {
+    color: blue;
+  }
+  
+  #paragraph-1 {
+    color: rgb(217, 54, 49);
+  }
+  
+  #paragraph-2 {
+    color: #28ac5c;
+  }
+
+  .bold {
+      font-weight: bold
+  }
+
+  article {
+    min-height: 100%;
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+    background-color: #45a1ff;
+    color: #fff;
+    font: 12px/14px sans-serif
+}
+
+form.form-example {
+    display: table;
+}
+
+div.form-example {
+    display: table-row;
+}
+
+label, input {
+    display: table-cell;
+    margin-bottom: 10px;
+}
+
+label {
+    padding-right: 10px;
+}
+p { font: 12px/14px sans-serif }
+
+h1 { font: 24px/28px sans-serif }
+
+a { font: 12px/14px sans-serif }
+
+ol { font: 12px/14px sans-serif }
+
+.grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+  }
+   
+  .grid__item {
+    width: 100%;
+    height: 200px;
+    background: skyblue;
+  }
