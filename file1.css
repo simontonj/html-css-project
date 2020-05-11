@@ -1,9 +1,10 @@
 #header-1 {
     color: blue;
+    background-image: url("https://us.123rf.com/450wm/ksushsh/ksushsh1712/ksushsh171200107/92049994-scattered-gold-star-shape-confetti-borders-isolated-on-white-background.jpg?ver=6");
   }
   
   #paragraph-1 {
-    color: rgb(217, 54, 49);
+    color: hotpink;
   }
   
   #paragraph-2 {
@@ -21,12 +22,12 @@
 }
 
 footer {
-    display: flex;
-    justify-content: center;
-    padding: 5px;
-    background-color: #45a1ff;
-    color: #fff;
-    font: 12px/14px sans-serif
+  display: flex;
+  justify-content: center;
+  padding: 5px;
+  background-image: url("https://us.123rf.com/450wm/ksushsh/ksushsh1712/ksushsh171200107/92049994-scattered-gold-star-shape-confetti-borders-isolated-on-white-background.jpg?ver=6");
+  color: rgb(14, 13, 13);
+  font: 12px/14px sans-serif
 }
 
 form.form-example {
